@@ -1,4 +1,4 @@
 # Git
 This is my 1st  git repository.
 <br>
-Author - Allister Silveira
+Author - Allister (Silveira)
